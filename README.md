@@ -37,6 +37,21 @@ Dans deux mois tu rentres en Master. Ce programme a un seul but : que tu arrives
 | 7 | Détection : logs, IDS & SIEM | [semaine-7-detection.md](semaine-7-detection.md) |
 | 8 | Le grand final : Mission Incident | [semaine-8-mission-incident.md](semaine-8-mission-incident.md) |
 | 📎 | Annexes (glossaire, outils, ressources, certifs) | [annexes.md](annexes.md) |
+| 📊 | **Suivi de ma progression** (checklist + tableau de bord) | [PROGRESSION.md](PROGRESSION.md) |
+
+---
+
+## 📊 Suivre ta progression
+
+Deux options, au choix :
+- **Checklist GitHub** : ouvre [PROGRESSION.md](PROGRESSION.md) et coche les cases au fur et à mesure.
+- **Tableau de bord terminal** : lance `./progression.sh` pour un dashboard avec barre de progression et badges qui se débloquent.
+
+```bash
+chmod +x progression.sh        # une seule fois
+./progression.sh               # voir le tableau de bord
+./progression.sh done 1 all    # valider toute la semaine 1
+```
 
 ---
 
