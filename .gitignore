@@ -1,3 +1,7 @@
 # Fichier de progression personnel (propre à chaque utilisateur)
 .progression.state
 .progression.state.tmp
+
+# Environnement Python pour générer le PDF
+.venv-pdf/
+__pycache__/

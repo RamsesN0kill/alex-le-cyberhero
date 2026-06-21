@@ -22,6 +22,8 @@ Dans deux mois tu rentres en Master. Ce programme a un seul but : que tu arrives
 - Chaque semaine = **Cours** 📘 + **Exercices** 🎯 + **Épreuve de passage** 🎫 + **Badge** 🏆.
 - Compte **~8 à 12 h par semaine**. Tu peux étaler ou condenser, mais **ne saute pas la pratique** : 70 % de ce que tu retiendras vient des exercices.
 
+> 📖 **Le manuel d'apprentissage (PDF, 35 pages)** : pour comprendre la théorie en mots simples, avec des analogies, télécharge **[Manuel-Alex-le-CyberHero.pdf](Manuel-Alex-le-CyberHero.pdf)**. C'est ton **livre de cours** ; les fichiers de semaine ci-dessous sont ton **cahier d'exercices**. On lit un chapitre du manuel, puis on pratique dans le cahier.
+
 ---
 
 ## 🗓️ Le programme
