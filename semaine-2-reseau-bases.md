@@ -147,6 +147,8 @@ Badge **🏆 Cartographe du Réseau** = 3 niveaux réussis.
 Termine **TryHackMe — « What is Networking? »** puis **« Intro to LAN »** : [tryhackme.com/module/network-fundamentals](https://tryhackme.com/module/network-fundamentals)
 Entraînement chronométré au sous-réseau : [subnettingpractice.com](https://subnettingpractice.com/)
 
+> 🆓 **Alternative 100 % gratuite** : les épreuves **Réseau** de **Root-Me** (en français, gratuit) → [root-me.org](https://www.root-me.org/), et l'entraînement chronométré au sous-réseau **subnettingpractice.com** (déjà gratuit, sans compte).
+
 ➡️ **🏆 Badge « Cartographe du Réseau » débloqué.** Cap sur la [Semaine 3](semaine-3-observation-reseau.md) !
 
 ---

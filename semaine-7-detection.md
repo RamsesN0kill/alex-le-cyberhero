@@ -98,6 +98,8 @@ Badge **🏆 Sentinelle du SOC** = 3 niveaux réussis.
 Attaque le parcours **TryHackMe — « SOC Level 1 »** (logs, SIEM, Splunk, Wazuh) : [tryhackme.com/path/outline/soclevel1](https://tryhackme.com/path/outline/soclevel1)
 Pour t'entraîner en investigation : **CyberDefenders** ([cyberdefenders.org](https://cyberdefenders.org/)) et **Blue Team Labs Online** ([blueteamlabs.online](https://blueteamlabs.online/)).
 
+> 🆓 **Alternative 100 % gratuite** : **LetsDefend** (plateforme d'analyste SOC, tier *Basic* gratuit avec de vraies alertes à traiter et des cours « SOC Fundamentals », « Splunk », « Phishing Email Analysis ») → [letsdefend.io](https://letsdefend.io/), et les challenges blue team gratuits de **CyberDefenders** → [cyberdefenders.org](https://cyberdefenders.org/).
+
 ➡️ **🏆 Badge « Sentinelle du SOC » débloqué.** Prêt pour le grand final ? [Semaine 8](semaine-8-mission-incident.md) !
 
 ---

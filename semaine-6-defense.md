@@ -115,6 +115,8 @@ Badge **🏆 Gardien du Système** = 3 niveaux réussis.
 ### 3. 🏆 Badge officiel en ligne
 Termine **TryHackMe — « Defensive Security Intro »** ([tryhackme.com/room/defensivesecurityintro](https://tryhackme.com/room/defensivesecurityintro)) et lance un audit local : `sudo apt install lynis && sudo lynis audit system` (note ton *hardening index*).
 
+> 🆓 **Alternative 100 % gratuite (et en français !)** : les **guides de durcissement officiels de l'ANSSI** (notamment *ANSSI-BP-028 : recommandations de configuration d'un système GNU/Linux*) → [cyber.gouv.fr](https://cyber.gouv.fr/) et le hub **CERT-FR Durcissement** → [cert.ssi.gouv.fr/dur](https://www.cert.ssi.gouv.fr/dur/). Applique le niveau « minimal » à ton Ubuntu, puis re-scanne avec **Lynis** et compare ton score.
+
 ➡️ **🏆 Badge « Gardien du Système » débloqué.** Place à la détection : [Semaine 7](semaine-7-detection.md) !
 
 ---

@@ -112,6 +112,8 @@ Badge **🏆 Œil de Lynx Réseau** = 3 niveaux réussis.
 ### 3. 🏆 Badge officiel en ligne
 Termine **TryHackMe — « Nmap »** ([tryhackme.com/room/furthernmap](https://tryhackme.com/room/furthernmap)) et **« Wireshark: The Basics »** ([tryhackme.com/room/wiresharkthebasics](https://tryhackme.com/room/wiresharkthebasics)).
 
+> 🆓 **Alternative 100 % gratuite** : analyse de **vraies captures réseau** sur **Malware-Traffic-Analysis.net** (gratuit, sans compte) → [malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/), et les épreuves **Réseau** (analyse de PCAP) de **Root-Me** → [root-me.org](https://www.root-me.org/).
+
 ➡️ **🏆 Badge « Œil de Lynx Réseau » débloqué.** En route pour la [Semaine 4](semaine-4-attaque-web.md) !
 
 ---

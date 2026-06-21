@@ -126,6 +126,8 @@ Badge **🏆 Briseur de Requêtes** = 3 niveaux réussis.
 Termine **TryHackMe — « OWASP Top 10 »** ([tryhackme.com/room/owasptop10](https://tryhackme.com/room/owasptop10)).
 Incontournable : crée un compte gratuit sur **PortSwigger Web Security Academy** et fais les premiers labs **SQL injection** + **XSS** : [portswigger.net/web-security](https://portswigger.net/web-security)
 
+> 🆓 **Alternative 100 % gratuite** : **PortSwigger Web Security Academy** (entièrement gratuit, déjà conseillé ci-dessus, c'est LA meilleure ressource web), le **Google XSS Game** → [xss-game.appspot.com](https://xss-game.appspot.com/), et les épreuves **Web-Client / Web-Serveur** de **Root-Me** → [root-me.org](https://www.root-me.org/).
+
 ➡️ **🏆 Badge « Briseur de Requêtes » débloqué.** Direction la [Semaine 5](semaine-5-exploitation.md) !
 
 ---

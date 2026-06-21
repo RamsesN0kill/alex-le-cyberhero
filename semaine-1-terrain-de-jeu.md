@@ -164,6 +164,8 @@ Réponds, puis vérifie avec `./verifie.sh "ta réponse"` (minuscules, sans acce
 Termine la room gratuite **TryHackMe — « Linux Fundamentals Part 1 »** : [tryhackme.com/room/linuxfundamentalspart1](https://tryhackme.com/room/linuxfundamentalspart1)
 Bonus (très formateur) : **OverTheWire — Bandit**, niveaux 0 à 10 : [overthewire.org/wargames/bandit](https://overthewire.org/wargames/bandit/)
 
+> 🆓 **Alternative 100 % gratuite** (si tu n'as pas de compte TryHackMe) : **OverTheWire — Bandit** (jeu Linux dans le navigateur, aucun compte requis) → [overthewire.org/wargames/bandit](https://overthewire.org/wargames/bandit/), et **Root-Me** (plateforme française entièrement gratuite) → [root-me.org](https://www.root-me.org/).
+
 ➡️ Les 3 réussis ? **🏆 Badge « Maître du Terminal » débloqué.** Direction la [Semaine 2](semaine-2-reseau-bases.md) !
 
 ---

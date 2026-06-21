@@ -83,6 +83,8 @@ Badge **🏆 Alex le CyberHero — Niveau Maître** 🎖️ = 3 niveaux réussis
 ### 3. 🏆 Badge officiel en ligne
 Termine **TryHackMe — « Incident Response Fundamentals »** ([tryhackme.com/room/incidentresponsefundamentals](https://tryhackme.com/room/incidentresponsefundamentals)). Puis, pour réviser TOUT le programme de façon ludique : **picoCTF** ([picoctf.org](https://picoctf.org/)) — vise au moins 5 challenges résolus.
 
+> 🆓 **Alternative 100 % gratuite** : les challenges **DFIR / forensic** gratuits de **CyberDefenders** → [cyberdefenders.org](https://cyberdefenders.org/), le tier gratuit de **Blue Team Labs Online** → [blueteamlabs.online](https://blueteamlabs.online/), et **picoCTF** (déjà gratuit) pour réviser tout le programme en mode jeu.
+
 ➡️ **🏆 Badge final débloqué. Tu es officiellement Alex le CyberHero — Niveau Maître. 🎖️**
 
 ---
