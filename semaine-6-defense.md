@@ -113,7 +113,7 @@ Badge **🏆 Gardien du Système** = 3 niveaux réussis.
 - SSH par **clé uniquement**, root interdit, et **fail2ban bannit ton brute-force Hydra** pour de vrai.
 
 ### 3. 🏆 Badge officiel en ligne
-Termine **TryHackMe — « Intro to Defensive Security »** ([tryhackme.com/room/defensivesecurity](https://tryhackme.com/room/defensivesecurity)) et lance un audit local : `sudo apt install lynis && sudo lynis audit system` (note ton *hardening index*).
+Termine **TryHackMe — « Defensive Security Intro »** ([tryhackme.com/room/defensivesecurityintro](https://tryhackme.com/room/defensivesecurityintro)) et lance un audit local : `sudo apt install lynis && sudo lynis audit system` (note ton *hardening index*).
 
 ➡️ **🏆 Badge « Gardien du Système » débloqué.** Place à la détection : [Semaine 7](semaine-7-detection.md) !
 
